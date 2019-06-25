@@ -59,10 +59,6 @@ http://seed.html5coin.net/HTML5COIN-blockchain-23052019.zip
 https://chainz.cryptoid.info/html5/
 
 ## Community
-Facebook: https://www.facebook.com/groups/htmlcoin/
-Twitter: https://twitter.com/HTMLCOIN
-Reddit: http://www.reddit.com/r/htmlcoin_community/
-Telegram: https://t.me/htmlcoinofficial
-Slack: https://htmlcoin.slack.com/messages
+Twitter: https://twitter.com/HTML5COINNET
 Forum: https://cryptocointalk.com/topic/17467-htmlcoin-html5-information/
 
