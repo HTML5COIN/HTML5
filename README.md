@@ -35,7 +35,6 @@ Proof of Developer: http://proofofdev.com/project/html-htmlcoin/
 Proof of Developer: http://cryptoasian.com/html-htmlcoin/
 
 ## Algorithm: X15
-
 15 ROUNDS OF SCIENTIFIC HASHING (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue, shabal, whirlpool). You can mine HTML5COIN with CPU or GPU, we are ASIC RESISTANT.
 
 ## POW Reward
@@ -43,23 +42,23 @@ Total Block: 10,800,000
 Block 11 - 10,800,000: 5 000 HTML5 After block 10,800,000 POS will start . 1% Annual PoS.
 
 ## Ports
-
 RPC Port = 6876
 P2P Port = 6877
 Testnet RPC: 16876
 Testnet P2P: 16877 
 
 ## Wallet:
- 
 WINDOWS: http://seed.html5coin.net/HTML5-master-1.3.1.2-setup.zip
 MAC OS:  http://seed.html5coin.net/Htmlcoin-1.3.1.2-Mac.zip
 
-## Blockchain 
 
+## Blockchain 
 http://seed.html5coin.net/HTML5COIN-blockchain-23052019.zip
 
-## Community
+## Blockchain Explorer 
+https://chainz.cryptoid.info/html5/
 
+## Community
 Facebook: https://www.facebook.com/groups/htmlcoin/
 Twitter: https://twitter.com/HTMLCOIN
 Reddit: http://www.reddit.com/r/htmlcoin_community/
